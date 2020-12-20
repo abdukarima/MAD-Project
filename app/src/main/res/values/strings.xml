@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="welcome">Your Calendar</string>
+    <string name="menu_add">Add</string>
+    <string name="add_activity">Add Event</string>
+    <string name="pick_date">Select Date</string>
+    <string name="date_event">Date of the event:</string>
+    <string name="title_event">Event title:</string>
+    <string name="submit">ADD</string>
+    <string name="title">Title</string>
+    <string name="button_left">SCROLL LEFT</string>
+    <string name="button_right">SCROLL RIGHT</string>
+    <string name="error_title">You need to input title!</string>
+    <string name="error_date">You need to input date!</string>
+</resources>
